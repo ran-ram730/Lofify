@@ -1,5 +1,6 @@
 <html lang="hi">
 <head>
+    <meta name="google-site-verification" content="gg96OzGmVjZVidOQUeSuOH3GDAAMqVZDnBhnopneRYI" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lofiify - Convert Any Song to Lofi</title>
